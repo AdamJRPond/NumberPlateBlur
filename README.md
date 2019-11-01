@@ -2,7 +2,7 @@
 
 This is a simple implementation of a tool that will automatically blur the number plates of a vehicle, based upon identifying text in an image.
 
-I used the [Google Vision](https://cloud.google.com/vision/) AutoML for text detection.
+I used the [Google Vision](https://cloud.google.com/vision/) AutoML API for text detection.
 
 ## Requirements
 
